@@ -7,4 +7,4 @@
    **Project Description:** 
    This is my Stage 0 DevOps task for HNG13. I've deployed an NGINX web server serving a custom HTML page, demonstrating basic server deployment and configuration skills.
    
-   **Server IP/Domain:** http://[your-ip-address]/
+   **Server IP/Domain:** http://13.53.130.53/
